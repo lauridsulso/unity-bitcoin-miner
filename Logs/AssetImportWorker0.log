@@ -240,3 +240,9 @@ Received Import Request.
   path: Assets/Game.cs
   artifactKey: Guid(d58a2624e55104e3981b7acede8d8638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Game.cs using Guid(d58a2624e55104e3981b7acede8d8638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '093c0505de9220439017152c37fde502') in 0.002461 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 38.852368 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a07caf313cdbad9c045f71d66bda3be3') in 0.002164 seconds 
