@@ -1,0 +1,4 @@
+repository "unity-game@lauridsulso1@cloud"
+  path "/"
+    smartbranch "/main"  
+     
