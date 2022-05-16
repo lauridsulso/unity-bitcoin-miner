@@ -12,8 +12,16 @@ public static int multiplier;
     // Start is called before the first frame update
     void Start()
     {
-        btc = 0;
-        multiplier = 1;
+        multiplier = PlayerPrefs.GetInt("multiplier", 1);
+        btc = PlayerPrefs.GetInt("btc", 0);
+
+    }
+
+    public void Update() {
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            PlayerPrefs.DeleteAll();
+        }
     }
 
    
