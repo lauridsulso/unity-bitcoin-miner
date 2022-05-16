@@ -39,7 +39,7 @@ public class Game : MonoBehaviour
        }
    }
 
-   public void Update() {
+void Update() {
        ui.text = "BTC: " + GameManager.btc;
    }
 }

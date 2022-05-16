@@ -222,3 +222,21 @@ Received Import Request.
   path: Assets/Game.cs
   artifactKey: Guid(d58a2624e55104e3981b7acede8d8638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Game.cs using Guid(d58a2624e55104e3981b7acede8d8638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a113ac666d85846e10e1b8d5f3fc24a') in 0.007345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 754.900036 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddca4c0148e6c9674ff2c580c0422b6e') in 0.007372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 65.780636 seconds.
+  path: Assets/Game.cs
+  artifactKey: Guid(d58a2624e55104e3981b7acede8d8638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game.cs using Guid(d58a2624e55104e3981b7acede8d8638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa812105db6a9e4cb9474e52087b0bf2') in 0.005589 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.210280 seconds.
+  path: Assets/Game.cs
+  artifactKey: Guid(d58a2624e55104e3981b7acede8d8638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game.cs using Guid(d58a2624e55104e3981b7acede8d8638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '093c0505de9220439017152c37fde502') in 0.002461 seconds 
